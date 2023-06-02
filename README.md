@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a website containing some of my favorite food recipes. It is built using basic HTML, practicing my understanding of heading, paragraph, anchor, image, and list elements. It also serves as a way for myself to become more familiar with git and the command line interface.
