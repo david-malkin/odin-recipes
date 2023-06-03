@@ -1,0 +1,15 @@
+body {
+  background-color: #FFFAF0;
+  color: #000000;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+a,
+ul li {
+  color: darkred;
+}
+
+#main-image {
+  width: 500px;
+  height: auto;
+}
